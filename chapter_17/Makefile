@@ -11,3 +11,9 @@ CXX = g++  # C++ compiler, you can choose among g++, clang++, etc.
 
 factorial: 01-factorial.cpp
 	$(CXX) 01-factorial.cpp $(FLAGS) -o factorial
+
+fibonacci: 02-fibonacci.cpp
+	$(CXX) 02-fibonacci.cpp $(FLAGS) -o fibonacci
+
+fibonacciWithMemoization: 03-fibonacciWithMemoization.cpp
+	$(CXX) 03-fibonacciWithMemoization.cpp $(FLAGS) -o fibonacciWithMemoization
