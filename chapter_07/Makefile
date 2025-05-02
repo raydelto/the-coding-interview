@@ -1,6 +1,6 @@
 # This Makefile compiles the C++ programs in this directory.
 
-# Chapter 7 (The Coding Interview Prep Handbook, by Raydelto Hernandez)
+# Chapter 7 [Big O Notation] (The Coding Interview Prep Handbook, by Raydelto Hernandez)
 
 # The -Wall flag enables all compiler's warning messages.
 # The -std=c++17 flag specifies the C++ standard to use.

@@ -1,6 +1,6 @@
 # This Makefile compiles the C++ programs in this directory.
 
-# Chapter 8 (The Coding Interview Prep Handbook, by Raydelto Hernandez)
+# Chapter 8 [Arrays & Strings] (The Coding Interview Prep Handbook, by Raydelto Hernandez)
 
 # The -Wall flag enables all compiler's warning messages.
 # The -std=c++17 flag specifies the C++ standard to use.
