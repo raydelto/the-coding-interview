@@ -11,3 +11,6 @@ CXX = g++  # C++ compiler, you can choose among g++, clang++, etc.
 
 treeTraversal: 01-treeTraversal.cpp
 	$(CXX) 01-treeTraversal.cpp $(FLAGS) -o treeTraversal
+
+invertBinaryTree: 02-invertBinaryTree.cpp
+	$(CXX) 02-invertBinaryTree.cpp $(FLAGS) -o invertBinaryTree
